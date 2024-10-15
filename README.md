@@ -39,8 +39,8 @@ To work with this project, you will need Docker and Docker Compose installed on 
 
 1. Clone the repository:
 
-```git clone https://github.com/parkhomchukalexei/test_computools.git```
-```cd test_computools```
+```git clone https://github.com/parkhomchukalexei/computools.git```
+```cd computools```
 
 2. Build the Docker image:
 
