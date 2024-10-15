@@ -1,0 +1,7 @@
+.idea
+venv
+logs
+tests/__pycache__
+pycache
+
+
